@@ -1,0 +1,294 @@
+*{
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+.container {
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+header {
+  height: 45px;
+  width: 100%;
+  background-color: rgba(34,49,52,0.9);
+}
+li{
+    list-style-type: none;
+}
+header{
+    position:fixed;
+}
+
+.header-logo {
+  font-size: 28px;
+  padding: 10px 30px;
+  color:ghostwhite;
+}
+span{
+    color:maroon;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right{
+  float: right;
+  
+}
+a:hover{
+    background-color:indianred;
+}
+.header-right a {
+  float:left;
+  line-height:45px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  transition: all 0.5s ease 0s;
+  font-size:23px;
+}
+
+.top-wrapper {
+    background-image:url("img.10.jpg");
+    background-size: cover;
+    padding:100px 250px 180px 0px;
+    background-color: black;
+    height:660px;
+    
+    
+}
+.top-wrapper background-img{
+    position:relative;
+}
+.top-wrapper img{
+    position:absolute;
+    top:90px;
+    width:35%;
+    height:578px;
+    float: left;
+    border-radius: 15%;
+}
+.webname {
+    font-size:36px;
+    color:springgreen;
+}
+h1{
+    color:ghostwhite;
+    font-size:58px;
+    text-align:right;
+}
+h2{
+    font-size: 30px;
+    text-align:right;
+    color:whitesmoke;
+}
+.name{
+    color:orange;
+}
+.about-wrapper{
+    height:850px;
+    background-color: black;
+    margin-bottom: 20px;
+    border-top: 5px solid white; 
+    
+}
+.info li{
+    list-style:square;
+    
+}
+
+h3{
+    font-size :26px;
+    color: snow;
+}
+.hobbie-wrapper {
+    height: 400px;
+    /*padding-bottom: 80px;
+    padding-top:20px;*/
+    height:735px;
+    background-color:black;
+    border-bottom: 8px solid white;
+}
+.hobbies{
+  float: left;
+  width: 25%;
+}
+.hobbies-icon p{
+    font-size:26px;
+    color:springgreen;
+    opacity:0.6;
+}
+.hobbies-icon img{
+  width:80%;
+  height: 85%;
+  border-radius:5% ;
+
+
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: whitesmoke;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+.heading h3 {
+  font-weight: bolder;
+  text-align: center;
+  font-size:40px;
+  color:darkblue;
+}
+.interests-wrapper {
+    padding: 10px 20px;
+    height:800px;
+    background-color:black;
+    border-bottom: 8px solid white;
+}
+  
+.heading {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}    
+
+.heading h3 {
+    font-weight: bolder;
+    text-align: center;
+    font-size:40px;
+    color:darkblue;
+}
+
+.interest {
+  float: left;
+  width:50%;
+}
+
+.interest-icon img{
+    width:80%;
+    padding:20px 50px ;
+    
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 26px;
+  color:white;
+}
+
+
+.btn-wrapper {
+    margin: 20px 0;
+}
+
+
+.facebook{
+  background-color: #239b76;
+  margin-bottom: 10px;
+}
+
+.instagram {
+  background-color:chocolate;
+  margin-bottom: 10px;
+}
+
+.LinkedIn{
+  background-color:darkblue;
+  margin-bottom: 10px;
+}
+.codeforces{
+  background-color:forestgreen;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 12px 30px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.message {
+    font-weight: bolder;
+    padding: 15px 30px;
+    cursor: pointer;
+    box-shadow: 0 3px white;
+}
+.message:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+}
+
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+}
+.project-section{
+    height:500px;
+    background-color:black;
+    margin-bottom:4px;
+    
+}
+.project{
+    font-size:30px;
+    color:white;
+   
+}
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.message {
+  padding: 15px 40px;
+  cursor: pointer;
+  box-shadow: 0 3px white;
+}
+.message:active {
+  position: relative;
+  top: 5px;
+  box-shadow: none;
+}
+
+
+.heading {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}    
+.heading h3 {
+    font-weight: normal;
+}
+
+.heading h3 {
+  font-weight: bolder;
+  text-align:center;
+  font-size:40px;
+  color:darkblue;
+}
+.project li{
+  margin-bottom: 25px;
+}
+
+.project1 {
+  background-color:olive;
+  margin-bottom: 10px;
+  text-align: center;
+}
