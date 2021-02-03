@@ -1,0 +1,70 @@
+.about-wrapper{
+    height:635px;
+    background-color: black;
+    margin-bottom: 20px;
+    border-top: 5px solid white; 
+    
+}
+.heading h3 {
+  font-weight: normal;
+}
+
+.heading h3 {
+  font-weight: bolder;
+  text-align: center;
+  font-size:40px;
+  color:darkblue;
+}
+
+
+h3{
+    font-size :26px;
+    color: snow;
+}
+.btn-wrapper {
+    margin: 20px 0;
+}
+
+
+.facebook{
+  background-color: #239b76;
+  margin-bottom: 10px;
+}
+
+.instagram {
+  background-color:chocolate;
+  margin-bottom: 10px;
+}
+
+.LinkedIn{
+  background-color:darkblue;
+  margin-bottom: 10px;
+}
+.codeforces{
+  background-color:forestgreen;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 12px 30px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.message {
+    font-weight: bolder;
+    padding: 15px 30px;
+    cursor: pointer;
+    box-shadow: 0 3px white;
+}
+.message:active {
+    position: relative;
+    top: 5px;
+    box-shadow: none;
+}
+
