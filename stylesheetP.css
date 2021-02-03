@@ -1,0 +1,86 @@
+.project-section{
+    height:635px;
+    background-color:black;
+    margin-bottom:4px;
+    
+}
+.project{
+    font-size:30px;
+    color:white;
+   
+}
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+.message {
+  padding: 15px 40px;
+  cursor: pointer;
+  box-shadow: 1800px 3px white;
+}
+.message:active {
+  position: relative;
+  top: 5px;
+  box-shadow: none;
+}
+
+
+.heading {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}    
+.heading h3 {
+    font-weight: normal;
+}
+
+.heading h3 {
+  font-weight: bolder;
+  text-align:center;
+  font-size:40px;
+  color:darkblue;
+}
+.project li{
+  margin-bottom: 25px;
+}
+
+.project1 {
+  background-color:olive;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+    margin: 0 auto;
+}
+
+
+.heading {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}    
+.heading h3 {
+    font-weight: normal;
+}
+
+.heading h3 {
+  font-weight: bolder;
+  text-align:center;
+  font-size:40px;
+  color:darkblue;
+}
+.project li{
+  margin-bottom: 25px;
+}
+
+.project1 {
+  background-color:olive;
+  margin-bottom: 10px;
+  text-align: center;
+}
